@@ -1,0 +1,4 @@
+algorithm=bs
+allocation=1
+replacement=1
+
